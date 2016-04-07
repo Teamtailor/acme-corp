@@ -540,6 +540,11 @@ section h3.section-subheading {
     margin-bottom: 0;
 }
 
+.teamtailor-jobs__job-title {
+  font-size: 18px;
+  line-height: 1.75;
+}
+
 @media(min-width:768px) {
     .timeline:before {
         left: 50%;
