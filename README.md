@@ -1,3 +1,2 @@
-# http://acme-corp.surge.sh
+# https://acme-corp.netlify.com
 
-To deploy, run `surge .` inside the directory
